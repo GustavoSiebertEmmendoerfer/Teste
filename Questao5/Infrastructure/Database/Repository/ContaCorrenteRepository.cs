@@ -18,6 +18,7 @@ namespace Questao5.Infrastructure.Database.Repository
         public async Task<ContaCorrente> GetById(string contaCorrenteId)
         {
             var sql = "SELECT * FROM contacorrente WHERE idcontacorrente = @Id";
+            sql = string.Concat(sql, "Order by Id desc");
             await using var connection = new SqliteConnection(_databaseConfig.Name);
             return await connection.QuerySingleOrDefaultAsync<ContaCorrente>( sql, new { Id = contaCorrenteId });
         }
