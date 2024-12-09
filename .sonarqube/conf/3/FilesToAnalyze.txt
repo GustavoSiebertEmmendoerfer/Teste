@@ -1,0 +1,10 @@
+﻿C:\projects\Teste-Desenvolvedor-CSharp-API-v3-Gustavo-Siebert\Questao5.Test\Unit\Application\Handlers\MovimentacaoHandlerTests.cs
+C:\projects\Teste-Desenvolvedor-CSharp-API-v3-Gustavo-Siebert\Questao5.Test\Unit\Application\Handlers\SaldoContaCorrenteQueryHandlerTests.cs
+C:\projects\Teste-Desenvolvedor-CSharp-API-v3-Gustavo-Siebert\Questao5.Test\Unit\Application\Validators\CriaMovimentacaoParaContaCommandValidatorTests.cs
+C:\projects\Teste-Desenvolvedor-CSharp-API-v3-Gustavo-Siebert\Questao5.Test\Unit\Application\Validators\GetContaCorrenteByNumeroQueryValidatorTests.cs
+C:\Users\gsemm\.nuget\packages\microsoft.net.test.sdk\17.5.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\gsemm\.nuget\packages\microsoft.testplatform.testhost\17.5.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\gsemm\.nuget\packages\microsoft.testplatform.testhost\17.5.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\gsemm\.nuget\packages\xunit.runner.visualstudio\2.4.5\build\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\gsemm\.nuget\packages\xunit.runner.visualstudio\2.4.5\build\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\gsemm\.nuget\packages\xunit.runner.visualstudio\2.4.5\build\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll

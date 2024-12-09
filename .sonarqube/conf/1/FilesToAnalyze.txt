@@ -1,0 +1,4 @@
+﻿C:\projects\Teste-Desenvolvedor-CSharp-API-v3-Gustavo-Siebert\Questao2\FootballMatchResponse.cs
+C:\projects\Teste-Desenvolvedor-CSharp-API-v3-Gustavo-Siebert\Questao2\GetTeamGoals.cs
+C:\projects\Teste-Desenvolvedor-CSharp-API-v3-Gustavo-Siebert\Questao2\Program.cs
+C:\projects\Teste-Desenvolvedor-CSharp-API-v3-Gustavo-Siebert\Questao2\Questão 2.docx
